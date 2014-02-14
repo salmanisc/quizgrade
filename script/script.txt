@@ -1,0 +1,7 @@
+truncate table `t_user`  
+truncate table `t_assignment`  
+truncate table `t_assignsubm`  
+truncate table `t_quiz`  
+truncate table `t_quizques`  
+truncate table `t_quizans`  
+ 

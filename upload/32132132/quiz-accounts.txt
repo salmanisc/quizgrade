@@ -1,0 +1,2 @@
+teacher@test.com	test1234	teacher
+test@test.com		test1234	student	

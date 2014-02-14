@@ -1,0 +1,25 @@
+.page-wrap {
+    min-height: 100%;
+    /* equal to footer height */
+    margin-bottom: -61px;
+}
+
+.page-wrap:after {
+    content: "";
+    display: block;
+}
+
+
+.site-footer, .page-wrap:after {
+    /* .push must be the same height as footer */
+    height: 40px;
+}
+
+footer {
+    padding: 10px 0;
+    background-color: #2D343E;
+}
+
+footer p {
+    padding-top: 10px;
+}
